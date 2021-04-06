@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BLE2</string>
+    <string name="scan_button_start">Start scan</string>
+    <string name="scan_button_stop">Stop scan</string>
+    <string name="locationPromptTitle">Location permission required</string>
+    <string name="locationPromptMessage">Starting from Android M (6.0), the system requires apps to be granted location access in order to scan for BLE devices.</string>
+</resources>
